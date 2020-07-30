@@ -19,9 +19,9 @@
 //   music: 'Twice',
 //   photo: 'Nikon',
 // };
-  // console.log(list.sport.toUpperCase());
-  // console.log(list.music.toUpperCase());
-  // console.log(list.photo.toUpperCase());
+// console.log(list.sport.toUpperCase());
+// console.log(list.music.toUpperCase());
+// console.log(list.photo.toUpperCase());
 //exc3
 // let x = 5;
 // if (x == null || undefined){
@@ -335,9 +335,9 @@
 // nameprd.push(product3);
 // nameprd.push(product4);
 //5.1
-// for(let i=0;i<nameprd.length;i++){
-//   console.log( 'name: ' +nameprd[i].name);
-//   console.log('price: ' +nameprd[i].price);
+// for (let i = 0; i < nameprd.length; i++) {
+//   console.log('name: ' + nameprd[i].name);
+//   console.log('price: ' + nameprd[i].price);
 // }
 //5.2
 // for(let i=0;i<nameprd.length;i++){

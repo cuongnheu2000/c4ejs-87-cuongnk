@@ -7,7 +7,7 @@
 // }
 // setTimeout(sayhi,3000);     //hiện thị sau 3s
 // setInterval(() => {
-    // console.log('hello world')
+//     console.log('hello world')
 // }, 3000);
 
 // 3
@@ -59,12 +59,12 @@
 // mywish('Cường', 'I Wish girl with love');
 
 // 10
-function mywish(name, wish){
-    if(wish==undefined){
-        alert('my name is ' + name + '\n' + 'i dont have a wish');
-    }
-    else{
-        alert(`${name} ${wish}`)
-    }
-};
+// function mywish(name, wish){
+//     if(wish==undefined){
+//         alert('my name is ' + name + '\n' + 'i dont have a wish');
+//     }
+//     else{
+//         alert(`${name} ${wish}`)
+//     }
+// };
 //mywish(`Cường`);

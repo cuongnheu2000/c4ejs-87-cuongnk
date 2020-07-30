@@ -1083,9 +1083,9 @@
 //4
 // let brandChoice = prompt('Which brand?');
 // alert(`There are ${inventoryByBrand[brandChoice].length} generations of ${brandChoice} in inventory`);   
-//5
+// 5
 // let brandChoice = prompt('Which brand?');
 // alert(`There are ${inventoryByBrand[brandChoice].length} generations of ${brandChoice} in inventory`);
-// for(let j = 0;j<inventoryByBrand[brandChoice].length; j++){
+// for (let j = 0; j < inventoryByBrand[brandChoice].length; j++) {
 //     alert(`There are ${inventoryByBrand[brandChoice].length} generations of ${brandChoice} in inventory \n${inventoryByBrand[brandChoice][j].name}`);
 // }

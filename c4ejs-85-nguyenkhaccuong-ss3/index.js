@@ -180,7 +180,7 @@
 //         }
 //             check=false;
 //             break;
-        
+
 //     case 'c' :
 //         let newitems = prompt('thêm clothes mới: ');
 //         clothes.push(newitems);
@@ -308,4 +308,30 @@
 // })
 // alert(`${so} => ${changeso}`);
 
+
+// let person = {
+//     name: "Quan",
+//     age: 22,
+//     location: "Ha Noi",
+//     height: 170,
+//     weight: 60
+// }
+// person.yearOfBirth = 1996;
+// console.log(person);
+
+// let ronaldo = {
+//     name: "ronaldo",
+//     age: 35,
+//     national: "portugar",
+// };
+// console.log(ronaldo); 
+//let hoi = prompt('create information, choice Y or N:');
+
+//init exc
+// let namemovie = {
+//     title: 'đấu la đại lục',
+//     year: 2018,
+//     rate: 8.1,
+// };
+// console.log(namemovie);
 
